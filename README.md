@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyuill's%20area&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
  
-        
+         
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
