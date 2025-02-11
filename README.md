@@ -9,7 +9,7 @@
 - 안양대학교(Anyang University)
 - 컴퓨터공학전공 (Computer Engineering)
 
-# 💡수상 경력
+# 👦ABOUT ME
 
 - 2024.12 캡스톤 경진대회 최우수상 수상 - 프로젝트 INHAIR
 
