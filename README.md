@@ -11,7 +11,7 @@
 
 # 💡수상 경력
 
-- 2024.12 캡스톤 경진대회 최우수상 수상 - 프로젝트 INHAIR
+- 2024.12 캡스톤 경진대회 최우수상 수상 - 프로젝트 [INHAIR](https://github.com/Kimgyuilli/InHair)
 
 # 🗒️자격증
 
