@@ -1,8 +1,36 @@
 <!--타이틀 부분-->
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyuill's%20area&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
-</p>
-        
+</p
+
+# 👦ABOUT ME
+
+- 안양대학교(Anyang University)
+- 컴퓨터공학전공 (Computer Engineering)
+
+# 💡수상 경력
+
+- 2024.12 캡스톤 경진대회 최우수상 수상 -  [INHAIR](https://github.com/Kimgyuilli/InHair)
+
+# 👦ABOUT ME
+
+- 안양대학교(Anyang University)
+- 컴퓨터공학전공 (Computer Engineering)
+
+# 💡수상 경력
+
+- 2024.12 캡스톤 경진대회 최우수상 수상 - 프로젝트 INHAIR
+
+# 🗒️자격증
+
+- SQLD
+
+| 프로젝트 명 | 설명 |
+| --- | --- |
+| [INHAIR](https://github.com/Kimgyuilli/InHair) | 탈모 진단, 솔루션 제공 서비스 앱 |
+| [걸음걸이](https://github.com/pirogramming-project/geol-eum-geol-i) | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 |
+
+
               
 <!--내용 부분--> 
 <h3 align="center">✨ Tech Stack ✨</h3>
