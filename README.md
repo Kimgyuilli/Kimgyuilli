@@ -3,6 +3,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyuill's%20area&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Kimgyuilli}?pet-id=1" width="1000" height="120"/>
+</a>
+
 # 👦ABOUT ME
 
 - 안양대학교(Anyang University)
@@ -63,7 +67,3 @@
 ![Gyuill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimgyuilli&show_icons=true&theme=moltack)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimgyuilli&layout=compact)
-
-
-
-
