@@ -21,6 +21,8 @@
 
 - SQLD
 
+# 프로젝트
+
 | 프로젝트 명 | 설명 |
 | --- | --- |
 | [INHAIR](https://github.com/Kimgyuilli/InHair) | 탈모 진단, 솔루션 제공 서비스 앱 |
