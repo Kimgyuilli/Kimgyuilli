@@ -3,15 +3,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyuill's%20area&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kimgyuilli&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Kimgyuilli?pet-id=701237442329818934"
     width="600"
-    height="120"
+    height="250"
   />
 </a>
   
-
 # 👦ABOUT ME
 
 - 안양대학교(Anyang University)
