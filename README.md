@@ -15,13 +15,21 @@
 # 👦ABOUT ME
 
 - 안양대학교(Anyang University)
-- 컴퓨터공학전공 (Computer Engineering)
+- 컴퓨터공학전공 (Computer Engineering) 
  
  
 # 💡수상 경력
 
 - 2024.12 캡스톤 경진대회 최우수상 수상 - 프로젝트 [INHAIR](https://github.com/Kimgyuilli/InHair)
 
+# 🐬 Experience
+
+- 2024.03 ~ 2026.02 | AYU DB LAB
+- 2024.12 ~ 2025.02 | 웹 개발 연합 동아리 피로그래밍(PIROGRAMMING) 22기 수료
+- 2024.03 ~ 2024.05 | 피로그래밍 서비스 개발 팀 피로니어(PIRONEER) 4기 수료
+- 2024.03 ~ 현재 | 웹 개발 연합 동아리 피로그래밍(PIROGRAMMING) 23기 교육팀
+- 2025.02 ~ 현재 | 구름톤 유니브 4기 안양대학교 미르미
+  
 # 🗒️자격증
 
 - SQLD
@@ -32,6 +40,7 @@
 | --- | --- |
 | [INHAIR](https://github.com/Kimgyuilli/InHair) | 탈모 진단, 솔루션 제공 서비스 앱 |
 | [걸음걸이](https://github.com/pirogramming-project/geol-eum-geol-i) | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 |
+| [Jeonse-ive](https://github.com/Jeonse-ive) | 국토 교통정보 활용 공모전 전세사기, 소음지도 서비스(개발중) |
 | [AYU-CSE](https://github.com/AYU-CSE) | 안양대 컴퓨터공학과 홈페이지 리모델링 프로젝트(개발중) |
 
 
@@ -45,6 +54,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Django-3670A0?style=for-the-badge&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-3670A0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
    
     
