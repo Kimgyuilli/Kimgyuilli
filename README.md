@@ -15,7 +15,10 @@
 # 👦ABOUT ME
 
 - 안양대학교(Anyang University)
-- 컴퓨터공학전공 (Computer Engineering) 
+- 컴퓨터공학전공 (Computer Engineering)
+
+# 😍 Portfolio
+  https://battle-settee-22b.notion.site/Portfolio-1ffe405723848031befce93397c82a5e?pvs=74
  
  
 # 💡수상 경력
