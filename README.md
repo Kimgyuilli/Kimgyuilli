@@ -18,8 +18,7 @@
 - 컴퓨터공학전공 (Computer Engineering)
 
 # 😍 Portfolio
-  https://battle-settee-22b.notion.site/Portfolio-1ffe405723848031befce93397c82a5e?pvs=74
- 
+[포트폴리오](https://battle-settee-22b.notion.site/Portfolio-1ffe405723848031befce93397c82a5e?pvs=74)
  
 # 💡수상 경력
 
