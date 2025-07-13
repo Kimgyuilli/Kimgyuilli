@@ -22,7 +22,8 @@
  
 # 💡수상 경력
 
-- 2024.12 캡스톤 경진대회 최우수상 수상 - 프로젝트 [INHAIR](https://github.com/Kimgyuilli/InHair)
+- 2024.12 캡스톤 경진대회 최우수상 수상 - [INHAIR](https://github.com/Kimgyuilli/InHair)
+- 2025.07.13 구름톤 유니브 4기 경인지부 해커톤 최우수상 수상 - [Ear줄게](https://github.com/Kimgyuilli/GiveYouEar-BE)
 
 # 🐬 Experience
 
@@ -44,6 +45,7 @@
 | [걸음걸이](https://github.com/pirogramming-project/geol-eum-geol-i) | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 |
 | [Jeonse-ive](https://github.com/Jeonse-ive) | 국토 교통정보 활용 공모전 전세사기, 소음지도 서비스 |
 | [AYU-CSE](https://github.com/AYU-CSE) | 안양대 컴퓨터공학과 홈페이지 리모델링 프로젝트(개발중) |
+| [Ear줄게](https://github.com/Kimgyuilli/GiveYouEar-BE) | AI 기반 자기주도형 발음 훈련 서비스 |
 
 
               
