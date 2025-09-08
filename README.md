@@ -44,9 +44,9 @@
 | [INHAIR](https://github.com/Kimgyuilli/InHair) | 탈모 진단, 솔루션 제공 서비스 앱 |
 | [걸음걸이](https://github.com/pirogramming-project/geol-eum-geol-i) | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 |
 | [Jeonse-ive](https://github.com/Jeonse-ive) | 국토 교통정보 활용 공모전 전세사기, 소음지도 서비스 |
-| [AYU-CSE](https://github.com/AYU-CSE) | 안양대 컴퓨터공학과 홈페이지 리모델링 프로젝트(개발중) |
 | [Ear줄게](https://github.com/Kimgyuilli/GiveYouEar-BE) | AI 기반 자기주도형 발음 훈련 서비스 |
-
+| [piro-recruit](https://github.com/Piro-recruit) | 피로그래밍 리쿠르팅 플랫폼 |
+| [HabiGlow](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_90_BE) | 점진적 성장을 유도하는 루틴 서비스 |
 
               
 <!--내용 부분--> 
