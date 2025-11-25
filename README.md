@@ -24,6 +24,7 @@
 
 - [2등] 2024.12 캡스톤 경진대회 최우수상 수상 - [INHAIR](https://github.com/Kimgyuilli/InHair)
 - [1등] 2025.07.13 구름톤 유니브 4기 경인지부 해커톤 최우수상 수상 - [Ear줄게](https://github.com/Kimgyuilli/GiveYouEar-BE)
+- [1등] 2025.11.23 SOPT 37기 해커톤 웹 서비스 대상 - [Shamrock Tales](https://github.com/SOPT-all/37-SOPKATHON-SERVER-WEB3)
 
 # 🐬 Experience
 
