@@ -44,9 +44,9 @@ def create_blog_table(feed_url, max_posts=6):
     feed = feedparser.parse(feed_url)
     entries = feed.entries[:max_posts]
 
-    # 테이블 생성
+    # 테이블 생성 (왼쪽 정렬)
     table = "| | | |\n"
-    table += "|:---:|:---:|:---:|\n"
+    table += "|---|---|---|\n"
 
     # 2행 3열로 구성
     for i in range(0, len(entries), 3):
@@ -65,8 +65,8 @@ def create_blog_table(feed_url, max_posts=6):
             # 날짜
             pub_date = format_date(entry.get('published', ''))
 
-            # 셀 내용 구성
-            cell = f"[![{title}]({thumbnail})]({link})<br/>**[{title}]({link})**<br/>{description}<br/>📅 {pub_date}"
+            # 셀 내용 구성 (이미지 크기 고정: 300x200)
+            cell = f'<a href="{link}"><img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br/>**[{title}]({link})**<br/>{description}<br/>📅 {pub_date}'
             row += f" {cell} |"
 
         # 3개 미만인 경우 빈 셀 추가
