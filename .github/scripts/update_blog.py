@@ -66,7 +66,7 @@ def create_blog_table(feed_url, max_posts=6):
             pub_date = format_date(entry.get('published', ''))
 
             # 셀 내용 구성 (이미지 크기 고정: 300x200)
-            cell = f'<a href="{link}"><img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br/>**[{title}]({link})**<br/>{description}<br/>📅 {pub_date}'
+            cell = f'<a href="{link}"><img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br/>**[{title}]({link})**<br/>{description}<br/>{pub_date}'
             row += f" {cell} |"
 
         # 3개 미만인 경우 빈 셀 추가
