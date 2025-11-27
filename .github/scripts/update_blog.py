@@ -6,6 +6,8 @@ def clean_html(raw_html):
     """HTML 태그 제거하고 텍스트만 추출"""
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
+    # 줄바꿈과 연속된 공백을 하나의 공백으로 치환
+    cleantext = re.sub(r'\s+', ' ', cleantext)
     return cleantext.strip()
 
 def get_thumbnail(entry):
@@ -27,7 +29,7 @@ def get_thumbnail(entry):
             return img_match.group(1)
 
     # 기본 이미지 (썸네일 없을 경우)
-    return "https://via.placeholder.com/300x200?text=No+Image"
+    return "https://github.com/user-attachments/assets/9ffcad01-a362-4ad3-b3eb-f648be5d75de"
 
 def format_date(date_str):
     """날짜 포맷팅"""
@@ -58,8 +60,8 @@ def create_blog_table(feed_url, max_posts=6):
             title = entry.title
             # 링크
             link = entry.link
-            # 내용 미리보기 (100자 제한)
-            description = clean_html(entry.get('description', ''))[:100] + '...'
+            # 내용 미리보기 (50자 제한)
+            description = clean_html(entry.get('description', ''))[:50] + '...'
             # 날짜
             pub_date = format_date(entry.get('published', ''))
 
