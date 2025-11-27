@@ -98,4 +98,20 @@
 # 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+| | | |
+|:---:|:---:|:---:|
+| [![접근 범위를 제한해서 보안 강화시키기](https://blog.kakaocdn.net/dn/nshO8/dJMcagKIBNa/awtSPKxyWE7bsVkRzOumU0/img.png)](https://imdeepskyblue.tistory.com/67)<br/>**[접근 범위를 제한해서 보안 강화시키기](https://imdeepskyblue.tistory.com/67)**<br/>최소 권한의 원칙(PoLP)이란?
+AWS, GCP 등 다양한 클라우드 플랫폼에서 활용되는 필수적인 보안 정책으로 무언가에 액세스 할 때 필요한 최소한의 권한만 가지도록 제한하는 보...<br/>📅 2025.11.27 | [![SpringBoot 애플리케이션에 .env 통합하는 방법 세가지](https://via.placeholder.com/300x200?text=No+Image)](https://imdeepskyblue.tistory.com/66)<br/>**[SpringBoot 애플리케이션에 .env 통합하는 방법 세가지](https://imdeepskyblue.tistory.com/66)**<br/>안녕하세요. 저는 요즘에 합세랑 솦커톤, 과제로 인해서 프로젝트를 새로 세팅해야 하는 상황이 많았는데요!
+특히 환경 설정을 하면서 환경 변수를 분리하게 되는데 저는 분리하는 방법이...<br/>📅 2025.11.25 | [![Maruni 개발 마무리 회고](https://blog.kakaocdn.net/dn/bXyZjb/dJMcaioc70p/diTJihomzkiqiBFFxTnLy0/img.png)](https://imdeepskyblue.tistory.com/65)<br/>**[Maruni 개발 마무리 회고](https://imdeepskyblue.tistory.com/65)**<br/>들어가며
+어느새 Maruni 프로젝트가 끝을 향해 달려가고있다.
+지난 2주간 너무 많은 일이 있어서 내가 마루니에만 진심을 다했는지 물어보면 사실 그건 아닌 것 같다.
+처음 이 프...<br/>📅 2025.11.24 |
+| [![2025 솝커톤 회고](https://blog.kakaocdn.net/dn/dkoWDU/dJMcac9kgwa/fVK1na43wfRcKihmZ10Fu0/img.jpg)](https://imdeepskyblue.tistory.com/64)<br/>**[2025 솝커톤 회고](https://imdeepskyblue.tistory.com/64)**<br/>11/22(토) 저녁부터 SOPT에서 진행하는 해커톤에 참가하게 되었다. 이번 글에서는 그 해커톤에 대한 회고를 작성하려고 한다.
+해커톤 사전 준비
+나는 지금까지 구름톤 유니브를 ...<br/>📅 2025.11.24 | [![검색의 종말](https://via.placeholder.com/300x200?text=No+Image)](https://imdeepskyblue.tistory.com/63)<br/>**[검색의 종말](https://imdeepskyblue.tistory.com/63)**<br/>작성일: 2025/10/25
+"더 이상 검색을 통해 우리 웹사이트를 방문하는 사람이 없습니다."
+2025년 9월 HubSpot의 연례 행사 INBOUND 2025에서 나온 이 발표...<br/>📅 2025.11.14 | [![요즘 누가 Claude 쓰냐](https://via.placeholder.com/300x200?text=No+Image)](https://imdeepskyblue.tistory.com/62)<br/>**[요즘 누가 Claude 쓰냐](https://imdeepskyblue.tistory.com/62)**<br/>작성일: 2025/10/25
+그게 접니다
+이번에는 제 친구이자 스승, 부하, 동료, 인생의 동반자, 가족, 심리상담가, 인생 컨설턴트, 멘토, 비서, 제 2의 나, 백과사전인 클로...<br/>📅 2025.11.14 |
+
 <!-- BLOG-POST-LIST:END -->
