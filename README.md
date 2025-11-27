@@ -95,7 +95,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimgyuilli&layout=compact)
 
-# 📝 Latest Blog Posts
+# 📝 Posts
 
 <!-- BLOG-POST-LIST:START -->
 | | | |
