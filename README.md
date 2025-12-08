@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gyuill's%20area&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
   
-<a href="https://kimgyuilli.github.io/gyuill-portpolio/">
+<a href="https://kimgyuilli.github.io/gyuill-portfolio/">
   <img src="https://github.com/user-attachments/assets/8f2004c4-9c28-4252-8392-2e55ae65474f" 
        alt="Portfolio Card" 
        width="450" 
