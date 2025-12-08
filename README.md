@@ -12,32 +12,13 @@
   />
 </a>
   
-# 👦ABOUT ME
+<a href="https://kimgyuilli.github.io/gyuill-portpolio/">
+  <img src="https://github.com/user-attachments/assets/8f2004c4-9c28-4252-8392-2e55ae65474f" 
+       alt="Portfolio Card" 
+       width="450" 
+       height="122"/>
+</a>
 
-- 안양대학교(Anyang University)
-- 컴퓨터공학전공 (Computer Engineering)
-
-# 😍 Portfolio
-[포트폴리오](https://battle-settee-22b.notion.site/Portfolio-1ffe405723848031befce93397c82a5e?pvs=74)
- 
-# 💡수상 경력
-
-- [2등] 2024.12 캡스톤 경진대회 최우수상 수상 - [INHAIR](https://github.com/Kimgyuilli/InHair)
-- [1등] 2025.07.13 구름톤 유니브 4기 경인지부 해커톤 최우수상 수상 - [Ear줄게](https://github.com/Kimgyuilli/GiveYouEar-BE)
-- [1등] 2025.11.23 SOPT 37기 해커톤 웹 서비스 대상 - [Shamrock Tales](https://github.com/SOPT-all/37-SOPKATHON-SERVER-WEB3)
-
-# 🐬 Experience
-
-- 2024.03 ~ 2026.02 | AYU DB LAB
-- 2024.12 ~ 2025.02 | 웹 개발 연합 동아리 피로그래밍(PIROGRAMMING) 22기 수료
-- 2025.03 ~ 2025.07 | AYU Student Advisor(1학년 자율전공 학생 대상 멘토링 활동)
-- 2025.03 ~ 2025.05 | 피로그래밍 서비스 개발 팀 피로니어(PIRONEER) 4기 수료
-- 2025.03 ~ 2025.08.17 | 웹 개발 연합 동아리 피로그래밍(PIROGRAMMING) 23기 교육팀
-- 2025.09 ~ | SOPT 37기 SERVER 파트원
-  
-# 🗒️자격증
-
-- SQLD
 
 # 🏗️ 프로젝트
 
