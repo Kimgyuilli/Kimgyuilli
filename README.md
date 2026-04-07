@@ -24,3 +24,6 @@
 | <a href="https://imdeepskyblue.tistory.com/83"><img src="https://blog.kakaocdn.net/dn/dKbcCF/dJMcaaYB5w9/3HR3650gwJHxTurfDjuDK0/img.png" width="300" height="200" alt="Spring AI로 멀티 턴 대화(Conversation Memory) 구현하기"></a><br/>**[Spring AI로 멀티 턴 대화(Conversation Memory) 구현하기](https://imdeepskyblue.tistory.com/83)**<br/>들어가며 이 프로젝트는 Spring AI를 학습하기 위한 프로젝트다. 고객센터 같은 상황에...<br/>2026.02.22 | <a href="https://imdeepskyblue.tistory.com/82"><img src="https://blog.kakaocdn.net/dn/bhpigT/dJMcabpFlpD/y82HKc9jrXAGPgyKsJwKC1/img.png" width="300" height="200" alt="500 에러가 터지면 AI가 알아서 PR을 만들어주는 봇 만들어보기"></a><br/>**[500 에러가 터지면 AI가 알아서 PR을 만들어주는 봇 만들어보기](https://imdeepskyblue.tistory.com/82)**<br/>Spring Boot 프로젝트를 운영하다 보면 500 에러가 터진다. 로그 보고, 원인 파...<br/>2026.02.18 | <a href="https://imdeepskyblue.tistory.com/81"><img src="https://blog.kakaocdn.net/dn/bCFyxo/dJMcah4qWNE/xlXko2SrkK1gpcwUCNMQlK/img.jpg" width="300" height="200" alt="Java Stream API 정리 (알고리즘 문제 풀이용)"></a><br/>**[Java Stream API 정리 (알고리즘 문제 풀이용)](https://imdeepskyblue.tistory.com/81)**<br/>알고리즘 문제를 풀 때 자주 사용하는 Java Stream API의 주요 메서드를 정리했습...<br/>2026.02.15 |
 
 <!-- BLOG-POST-LIST:END -->
+
+## Open Sources
+[langchain4j](https://github.com/langchain4j/langchain4j/pull/4858)
