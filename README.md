@@ -6,7 +6,7 @@
   />
 </a>
 
-<a href="https://kimgyuilli.github.io/gyuill-portfolio/">
+<a href="https://blog.rlarbdlf222.workers.dev/portfolio/">
   <img src="https://github.com/user-attachments/assets/8f2004c4-9c28-4252-8392-2e55ae65474f" 
        alt="Portfolio Card" 
        width="450" 
