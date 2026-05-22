@@ -1,42 +1,62 @@
 import feedparser
+import html
+import os
 import re
-from datetime import datetime
+from email.utils import parsedate_to_datetime
+
+DEFAULT_THUMBNAIL = "https://blog.rlarbdlf222.workers.dev/images/blog/og-default.svg"
 
 def clean_html(raw_html):
     """HTML 태그 제거하고 텍스트만 추출"""
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
+    cleantext = html.unescape(cleantext)
     # 줄바꿈과 연속된 공백을 하나의 공백으로 치환
     cleantext = re.sub(r'\s+', ' ', cleantext)
     return cleantext.strip()
 
+def normalize_url(url):
+    """프로토콜 상대 URL을 HTTPS URL로 정규화"""
+    if not url:
+        return ''
+    return f"https:{url}" if url.startswith('//') else url
+
 def get_thumbnail(entry):
     """RSS 엔트리에서 썸네일 이미지 URL 추출"""
     # media:thumbnail 태그 확인
-    if hasattr(entry, 'media_thumbnail'):
-        return entry.media_thumbnail[0]['url']
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        thumbnail = entry.media_thumbnail[0]
+        if thumbnail.get('url'):
+            return normalize_url(thumbnail['url'])
+
+    # media:content 태그 확인
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for media in entry.media_content:
+            if media.get('url'):
+                return normalize_url(media['url'])
 
     # enclosure 태그 확인
     if hasattr(entry, 'enclosures') and entry.enclosures:
         for enclosure in entry.enclosures:
-            if enclosure.get('type', '').startswith('image/'):
-                return enclosure.get('url')
+            if enclosure.get('type', '').startswith('image/') and enclosure.get('url'):
+                return normalize_url(enclosure['url'])
 
-    # description에서 이미지 추출
-    if hasattr(entry, 'description'):
-        img_match = re.search(r'<img[^>]+src="([^"]+)"', entry.description)
-        if img_match:
-            return img_match.group(1)
+    # description/content에서 이미지 추출
+    content = entry.get('description', '') or entry.get('summary', '')
+    img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content)
+    if img_match:
+        return normalize_url(img_match.group(1))
 
-    # 기본 이미지 (썸네일 없을 경우)
-    return "https://github.com/user-attachments/assets/9ffcad01-a362-4ad3-b3eb-f648be5d75de"
+    return DEFAULT_THUMBNAIL
 
 def format_date(date_str):
     """날짜 포맷팅"""
+    if not date_str:
+        return ''
     try:
-        date_obj = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S %z')
+        date_obj = parsedate_to_datetime(date_str)
         return date_obj.strftime('%Y.%m.%d')
-    except:
+    except (TypeError, ValueError):
         return date_str
 
 def create_blog_table(feed_url, max_posts=6):
@@ -105,7 +125,7 @@ def update_readme(readme_path, table_content):
         print("❌ Could not find markers in README.md")
 
 if __name__ == "__main__":
-    RSS_FEED_URL = "https://imdeepskyblue.tistory.com/rss"
+    RSS_FEED_URL = os.environ.get("RSS_FEED_URL", "https://blog.rlarbdlf222.workers.dev/rss.xml")
     README_PATH = "README.md"
 
     print("📡 Fetching blog posts from RSS feed...")
