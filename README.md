@@ -27,3 +27,4 @@
 
 ## Open Sources
 [langchain4j](https://github.com/langchain4j/langchain4j/pull/4858)
+[SpringBoot](https://github.com/spring-projects/spring-boot/pull/50375)
