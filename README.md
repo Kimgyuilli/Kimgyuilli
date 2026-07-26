@@ -6,15 +6,6 @@
   />
 </a>
 
-<a href="https://blog.rlarbdlf222.workers.dev/portfolio/">
-  <img src="https://github.com/user-attachments/assets/8f2004c4-9c28-4252-8392-2e55ae65474f" 
-       alt="Portfolio Card" 
-       width="450" 
-       height="122"/>
-</a>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarbdlf222)](https://solved.ac/rlarbdlf222/)
-
 # 📝 Posts
 
 <!-- BLOG-POST-LIST:START -->
